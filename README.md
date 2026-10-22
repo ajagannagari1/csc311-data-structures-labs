@@ -1,5 +1,3 @@
-# csc311-data-structures-labs
-Lab assignments for CSC 311 (Data Structures) at CSUDH: list, map, and hash map implementations, profiling, and a Redis-backed web index.
 # CSC 311 – GitHub Lab Assignments (Fall 2025)
 
 This repository serves as a central index for all GitHub lab assignments completed for
